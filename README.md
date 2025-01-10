@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Tarık Demirtaş!
 
-<!--
-**tarikdmrts/tarikdmrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Developer**  
+Passionate about crafting seamless user experiences and building applications.  
 
-Here are some ideas to get you started:
+## 🛠 Skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 iOS Development  
+- **Languages**: Swift  
+- **Tools**: Xcode, Storyboard   
+- **Database**: SQLite  
+
+### 🌐 Frontend Development  
+- **Languages**: JavaScript, HTML, CSS  
+
+### 🐍 Python Development  
+- Proficient in Python with a strong understanding of **Object-Oriented Programming (OOP)**.  
+
+## 
+- [Email Me](mailto:tarkdemirtas50@hotmail.com)  
