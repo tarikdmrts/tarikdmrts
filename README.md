@@ -18,4 +18,5 @@ Passionate about crafting seamless user experiences and building applications.
 - Experienced in using **NumPy** and **Pandas** for data manipulation and analysis. 
 
 ## 
-- [Email Me](mailto:tarkdemirtas50@hotmail.com)  
+- [Email Me](mailto:tarkdemirtas50@hotmail.com)
+- [Leetcode Profile](https://leetcode.com/u/tarikdmrts/)
